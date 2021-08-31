@@ -1,0 +1,18 @@
+/* fir mic */
+.searchContainer div {
+  position: relative;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  width: 30%;
+  align-items: center;
+}
+.searchBox {
+  width: 100%;
+}
+.searchContainer div i {
+  position: absolute;
+  right: 2%;
+  top: 30%;
+  cursor: pointer;
+}
